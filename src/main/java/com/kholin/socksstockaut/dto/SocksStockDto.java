@@ -16,3 +16,4 @@ public class SocksStockDto {
     @Min(1)
     private int quantity;
 }
+
